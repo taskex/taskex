@@ -1,6 +1,6 @@
 # Taskex
 
-**Taskex** is a dynamic platform that bridges the gap between freelancers and businesses, enabling a seamless connection for outsourcing tasks and projects. Whether you're a freelancer seeking new opportunities or a business looking to hire skilled professionals, TaskEx offers an intuitive and efficient way to match the right talent with the right tasks.
+**Taskex** is a dynamic platform that bridges the gap between freelancers and businesses, enabling a seamless connection for outsourcing tasks and projects. Whether you're a freelancer seeking new opportunities or a business looking to hire skilled professionals, Taskex offers an intuitive and efficient way to match the right talent with the right tasks.
 
 ## 🚀 What is Taskex?
 
